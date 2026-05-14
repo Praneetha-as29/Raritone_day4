@@ -60,4 +60,48 @@ This project focuses on improving human pose detection and exploring advanced AI
 
 ## How to Run
 
-1. Activate environment:
+1. Activate environment:mp-final\Scripts\activate
+
+
+2. Run the program:
+
+python practice_code/pose_day4.py
+
+
+3. Press `q` to exit
+
+---
+
+## Output
+- Real-time webcam feed  
+- Human pose detection (skeleton tracking)  
+- Background segmentation (blur effect)  
+- Improved accuracy and stability  
+
+---
+
+## Project Structure
+
+
+Raritone/
+│
+├── day4/
+│ ├── ReadMe
+│ ├── day 4 task 1
+│ ├── day 4 task 2
+│ ├── day 3 task 3
+│ ├── day 4 task 4
+│ └── day 3 task 5
+
+
+---
+
+## Conclusion
+The project successfully improved pose detection accuracy and demonstrated the use of segmentation and AI-based logic in fashion-related applications. It provided practical exposure to real-time computer vision systems and their real-world use cases.
+
+---
+
+## Note
+- Performance depends on lighting conditions  
+- Detection accuracy may vary with body visibility  
+- Measurements are approximate and based on pixel values 
